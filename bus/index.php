@@ -9,7 +9,7 @@
 
 <button type="button" class="btn btn-primary btn-lg">
 <a style="color:black" target="_blank" href="index_files/Bus Pass Registration.pdf">
-<strong>Steps for  Registration</strong></a>
+<strong>Steps for the Registration</strong></a>
 </button>
 <br /><br />
 
